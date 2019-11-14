@@ -1,1 +1,1 @@
-# CoupledGNNs
+# CoupledGNN
