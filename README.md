@@ -1,4 +1,4 @@
-# Coupled Graph Neural Networks (CoupledGNN)
+# CoupledGNN
 This repository is an implementation of our proposed CoupledGNN model in the following paper:
 
 ```
@@ -17,7 +17,7 @@ Tensorflow 1.14.0
 ## Usage
 ***Example Usage***
 
-`python -u train.py --n_layers=3 --dataset=artificial1 --learning_rate=5e-4 --graph_learning_rate=5e-5 --reg_l2=1e-8 `
+`python -u train.py --dataset=artificial1 --learning_rate=5e-4 --graph_learning_rate=5e-5 --n_layers=3 `
 
 For detailed description of all parameters, you can run
 
