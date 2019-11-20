@@ -6,6 +6,8 @@ Qi Cao, Huawei Shen, Jinhua Gao, Bingzheng Wei, Xueqi Cheng. 2020. Popularity Pr
 with Coupled Graph Neural Networks. In WSDM'20, February 3-7, 2020, Houston, TX, USA, 9 pages.
 ```
 
+The CoupledGNN model solves the *network-aware popularity prediction* problem, capturing the cascading effect explicitly by two coupled graph neural networks.
+
 For more details, you can download this paper [Here](https://arxiv.org/abs/1906.09032)
 
 ## Requirements
